@@ -1,0 +1,39 @@
+### Module positions - created on Mon May 16 17:27:47 2022 ###
+### Printed by Pcbnew version (6.0.5)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                  Package                                              PosX       PosY       Rot  Side
+C1        1uF_0603             C_0603_1608Metric_Pad1.08x0.95mm_HandSolder      158.0000   -90.0700  180.0000  top
+C2        4.7uF_0603           C_0603_1608Metric_Pad1.08x0.95mm_HandSolder      181.3600  -101.6100    0.0000  top
+C3        100nF_0402           C_0402_1005Metric_Pad0.74x0.62mm_HandSolder      172.8600   -97.4100    0.0000  top
+C4        0.1uF_0402           C_0402_1005Metric_Pad0.74x0.62mm_HandSolder      166.5200   -89.3400  180.0000  top
+C5        0.1uF_0402           C_0402_1005Metric_Pad0.74x0.62mm_HandSolder      170.5800   -92.5000   90.0000  top
+C6        0.1uF_0402           C_0402_1005Metric_Pad0.74x0.62mm_HandSolder      167.4000  -100.9900  -90.0000  top
+C7        0.1uF_0402           C_0402_1005Metric_Pad0.74x0.62mm_HandSolder      156.8200   -96.2900   90.0000  top
+C8        0.1uF_0402           C_0402_1005Metric_Pad0.74x0.62mm_HandSolder      167.3300   -92.4000  180.0000  top
+C9        0.1uF_0402           C_0402_1005Metric_Pad0.74x0.62mm_HandSolder      158.6400   -92.3600  180.0000  top
+C10       0.1uF_0402           C_0402_1005Metric_Pad0.74x0.62mm_HandSolder      156.8300   -98.6000   90.0000  top
+D1        5.6V                 D_SOD-123F                                       175.9700  -100.0400  -90.0000  top
+D2        Green_0603           LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder    177.6400   -92.0500  180.0000  top
+D3        LED_GBAR             B38G3RGB                                         160.9400   -89.2800    0.0000  top
+F1        PTC_250mA_1206       Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder   178.4500   -99.9000  -90.0000  top
+J1        USB_B_Micro          USB_Micro-B_Molex_47346-0001                     182.3500   -96.0200   90.0000  top
+J2        Conn_02x05_Odd_Even  IDC-Header_2x05_Pitch1.27mm_Straight             153.0000   -95.0000    0.0000  top
+J4        Conn_01x04           PinHeader_1x04_P2.54mm_Vertical                  175.5900   -89.4000   90.0000  top
+R1        0_Ohm_0603           R_0603_1608Metric_Pad0.98x0.95mm_HandSolder      158.0000   -88.4300  180.0000  top
+R2        1k_0402              R_0402_1005Metric_Pad0.72x0.64mm_HandSolder      170.1300  -101.2500  180.0000  top
+R3        4.7k_0603            R_0603_1608Metric_Pad0.98x0.95mm_HandSolder      174.1300   -92.0500    0.0000  top
+R4        1k_0402              R_0402_1005Metric_Pad0.72x0.64mm_HandSolder      166.5000   -88.3000  180.0000  top
+R5        1k_0402              R_0402_1005Metric_Pad0.72x0.64mm_HandSolder      171.6900   -92.5000  -90.0000  top
+R6        1k_0402              R_0402_1005Metric_Pad0.72x0.64mm_HandSolder      163.2700   -89.1800  180.0000  top
+R7        1k_0402              R_0402_1005Metric_Pad0.72x0.64mm_HandSolder      163.2700   -88.1300  180.0000  top
+R8        1k_0402              R_0402_1005Metric_Pad0.72x0.64mm_HandSolder      163.2900   -90.2500  180.0000  top
+R9        10k_0402             R_0402_1005Metric_Pad0.72x0.64mm_HandSolder      170.5800   -94.8200  -90.0000  top
+R10       1k_0402              R_0402_1005Metric_Pad0.72x0.64mm_HandSolder      158.0100  -101.0100   90.0000  top
+R11       10k_0402             R_0402_1005Metric_Pad0.72x0.64mm_HandSolder      156.8300  -101.0300   90.0000  top
+R12       0_Ohm_0402           R_0402_1005Metric_Pad0.72x0.64mm_HandSolder      171.6700   -94.8200   90.0000  top
+SW1       SW_SPST              SW_Push_1P1T_NO_CK_KMR2                          170.5800   -89.3500    0.0000  top
+U1        WE-TVS-82400102      SOT-23-6                                         177.1800   -95.4300  180.0000  top
+U2        SPX3819M5-L-3-3      SOT-23-5                                         172.9500   -99.9900   90.0000  top
+U3        STM32F102C8Tx        LQFP-48_7x7mm_P0.5mm                             163.0000   -96.7000    0.0000  top
+## End
