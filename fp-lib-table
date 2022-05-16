@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "dap42")(type "KiCad")(uri "F:/Psyonic/repos/dap42-hardware/dap42.pretty")(options "")(descr ""))
+)
